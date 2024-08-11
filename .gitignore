@@ -1,0 +1,87 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+/functions
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+android/app/debug/
+android/app/release/
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# Web related
+web/.dart_tool/
+web/.packages
+
+# Windows related
+windows/.dart_tool/
+windows/.packages
+windows/Flutter/GeneratedPluginRegistrant.*
+
+# macOS related
+macos/.dart_tool/
+macos/.packages
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# Linux related
+linux/.dart_tool/
+linux/.packages
+linux/Flutter/GeneratedPluginRegistrant.*
+
+# JetBrains related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Byte-compiled / optimized / dependency cache
+*.class
+*.war
+*.ear
+*.jar
+*.dll
+*.exe
+*.o
+*.so
+*.idb
+*.pdb
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Git Large File Storage (LFS)
+*.apk
+*.dill
+
+# Other files
+*.lock
+*.DS_Store
+*.pdb
+*.app.dSYM

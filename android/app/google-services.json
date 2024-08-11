@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "718367715543",
+    "project_id": "tabasco-escapes",
+    "storage_bucket": "tabasco-escapes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718367715543:android:ec69cc818c2149c0ee8092",
+        "android_client_info": {
+          "package_name": "tech.sitab.tabasco_escapes.tabasco_escapes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718367715543-op6o8ra1pn8bccpnkvl5c3qj7eb57bar.apps.googleusercontent.com",
+          "default_web_client_id": "718367715543-r6gq0sjvr59f5et04u50r901hvnb9881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0cWh89t63kYI_AcCenyx-EN7DGHDuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718367715543-op6o8ra1pn8bccpnkvl5c3qj7eb57bar.apps.googleusercontent.com",
+              "default_web_client_id": "718367715543-r6gq0sjvr59f5et04u50r901hvnb9881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
